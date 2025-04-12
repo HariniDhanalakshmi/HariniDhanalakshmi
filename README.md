@@ -8,8 +8,8 @@ Computer Science and Engineering student
 - 🤔 I’m looking for help with placements
 - 💬 Ask me about Tech
 - 📫 How to reach me:
-<br />[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/harini-cse)
-[<img width="45" height="45" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](harininatarajan2005@gmail.com)
+<br />[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/harini-cse/)
+[<img width="45" height="45" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](mailto:harininatarajan2005@gmail.com)
 - 😄 Pronouns: Tech Enthusiast
 - ⚡ Fun fact:  I debug dreams before I debug code.
 
