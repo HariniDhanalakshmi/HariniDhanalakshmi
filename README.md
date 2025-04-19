@@ -1,6 +1,7 @@
-## Hi there 👋 It's me Harini
+<h1 align="center">Hi 👋, I'm Harini</h1>
+<h3 align="center">🚀Aspiring Full Stack Web Development | AI Explorer</h3>
 
-Computer Science and Engineering student
+<hr>
 
 - 🔭 I’m pursuing BE Computer Science and Engineering.
 - 🌱 I’m currently learning Full Stack Web Development 
@@ -12,7 +13,7 @@ Computer Science and Engineering student
 [<img width="45" height="45" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](mailto:harininatarajan2005@gmail.com)
 - 😄 Pronouns: Tech Enthusiast
 - ⚡ Fun fact:  I debug dreams before I debug code.
-
+<hr>
 
 ### I know the basics in <br>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/c.png" alt="c"/>
@@ -21,14 +22,22 @@ Computer Science and Engineering student
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="mysql-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
+<hr>
 
 ### IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
 <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/java-eclipse.png" alt="java-eclipse"/>
+<hr> 
 
+
+### Certifications
+
+- 🧰 GitHub Foundations
+- 💬 Salesforce - Platform Developer I
+<hr>
 
 ### <img width="20" height="20" src="https://img.icons8.com/emoji/48/desktop-computer.png" alt="desktop-computer"/> Workspace
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/HariniNatarajan21?theme=chartreuse&font=Electrolize)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HariniNatarajan21?theme=chartreuse&font=Electrolize)<hr>
 [![Harini github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HariniDhanalakshmi&bg_color=121112&color=42d3f0&line=1dedfc&point=61e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
